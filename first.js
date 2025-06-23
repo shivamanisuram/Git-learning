@@ -4,10 +4,11 @@ console.log(button);
 const login="login added";
 console.log(login);
 
-<<<<<<< HEAD
 const footer="footer added in our website"
 console.log(footer);
-=======
 const payment="payment added";
 console.log(payment);
->>>>>>> 184a945 (payment)
+
+
+const upi="integrated upi";
+console.log(upi);
